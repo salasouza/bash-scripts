@@ -1,4 +1,5 @@
 # BUILD SEQUENCE FIBONACCI 
+
 # This program to buil fibonacci sequence using arguments in line command
 
 sample=$1
