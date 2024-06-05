@@ -18,6 +18,7 @@ $STRING1 != $STRING2	$STRING1 is not equal to $STRING2
 -z $STRING1	$STRING1 is empty
 ```
 # References
+
 ## awk
 https://linux.die.net/man/1/awk
 https://www.hostgator.com.br/blog/como-usar-o-comando-awk-do-linux/
