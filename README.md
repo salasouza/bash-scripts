@@ -18,19 +18,19 @@ $STRING1 = $STRING2	$STRING1 is equal to $STRING2
 $STRING1 != $STRING2	$STRING1 is not equal to $STRING2
 -z $STRING1	$STRING1 is empty
 ```
-# References
 
+# References
 ## awk
 https://linux.die.net/man/1/awk
 https://www.hostgator.com.br/blog/como-usar-o-comando-awk-do-linux/
 https://www.geeksforgeeks.org/awk-command-unixlinux-examples/
 https://linuxhandbook.com/awk-command-tutorial/
 
-
 ## sed
 https://www.hostgator.com.br/blog/como-usar-o-comando-sed-do-linux/
 
 ## curl
+https://www.hostgator.com.br/blog/como-usar-o-comando-curl-do-linux/
 
 ## Bash-Scripting 
 https://www.geeksforgeeks.org/bash-scripting-if-statement/
