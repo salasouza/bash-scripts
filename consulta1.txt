@@ -1,4 +1,4 @@
-ip_add, event, duration
+ip,event,duration
 1,ax,30
 2,ax,35
 3,ar,15
