@@ -1,0 +1,7 @@
+ip_add, event, duration
+1,ax,30
+2,ax,35
+3,ar,15
+4,fr,48
+5,af,89
+6,ax,80
